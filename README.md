@@ -1,6 +1,8 @@
 ### Hello !!👋
 ### Welcome to my GitHub
 
+
+- 🌱 I’m currently learning: Deep Learning, MLOps
 <!--
 **Shreycasm/Shreycasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
